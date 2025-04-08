@@ -2,19 +2,19 @@
 
 **Description:**
 > Files can always be changed in a secret way. Can you find the flag?  
-> [Download the file here]([https://artifacts.picoctf.net/c/91/flag.png](https://mercury.picoctf.net/static/c28a959c5605d5f67480d5dd3a77f302/cat.jpg))
+> [Download the file here]([https://artifacts.picoctf.net/c/91/flag.png](https://mercury.picoctf.net/static/c28a959c5605d5f67480d5dd3a77f302/cat.jpg])
 
 ---
 
 ## 🔍 Step-by-Step Solution
 
-We are given a file called `flag.png`. The challenge hints that the image may have **hidden data**.
+We are given a file called `cat.jpg`. The challenge hints that the image may have **hidden data**.
 
 ### 🔧 Tools Used:
 - `file`
 - `exiftool`
-- `strings`
-
+- `echo`
+- `cyberchef`
 ---
 
 ### 🧪 Step 1: Inspect the File Type
