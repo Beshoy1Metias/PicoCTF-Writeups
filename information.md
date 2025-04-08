@@ -23,10 +23,10 @@ Check what kind of file it is:
 
 ```bash
 file flag.png
+```
 ✅ Output:
 flag.png: PNG image data, 450 x 450, 8-bit/color RGB, non-interlaced
 Looks like a regular image.
-
 🧪 Step 2: Look for Metadata (EXIF)
 Use exiftool to inspect metadata:
 
