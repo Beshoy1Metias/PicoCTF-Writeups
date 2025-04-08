@@ -31,7 +31,7 @@ Looks like a regular image.
 🧪 Step 2: Look for Metadata (EXIF)
 Use exiftool to inspect metadata:
 ```
-exiftool flag.png
+exiftool cat.jpg
 ```
 ✅ Output:
 ```
