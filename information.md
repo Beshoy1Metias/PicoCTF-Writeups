@@ -2,7 +2,7 @@
 
 **Description:**
 > Files can always be changed in a secret way. Can you find the flag?  
-> [Download the file here](https://artifacts.picoctf.net/c/91/flag.png)
+> [Download the file here]([https://artifacts.picoctf.net/c/91/flag.png](https://mercury.picoctf.net/static/c28a959c5605d5f67480d5dd3a77f302/cat.jpg))
 
 ---
 
