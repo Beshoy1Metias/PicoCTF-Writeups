@@ -22,7 +22,7 @@ We are given a file called `cat.jpg`. The challenge hints that the image may hav
 Check what kind of file it is:
 
 ```bash
-file flag.png
+file cat.jpg
 ```
 ✅ Output:
 flag.png: PNG image data, 450 x 450, 8-bit/color RGB, non-interlaced
